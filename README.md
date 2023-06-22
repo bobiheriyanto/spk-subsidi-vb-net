@@ -28,22 +28,28 @@ Aplikasi ini dibangun dengan menggunakan:
 ![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/1.%20Login.JPG?raw=true)
 
 - Menu Utama
-![Img 2](image/2. Menu Utama.JPG)
+  
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/2.%20Menu%20Utama.JPG?raw=true)
 
 - Data Penerima
-![Img 3](image/3. Data Penerima.JPG)
+  
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/3.%20Data%20Penerima.JPG?raw=true)
 
 - Data Kriteria
-![Img 4](image/4. Data Kriteria.JPG)
+  
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/4.%20Data%20Kriteria.JPG?raw=true)
 
 - Data Penilaian
-![Img 5](image/5. Data Penilaian.JPG)
+  
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/5.%20Data%20Penilaian.JPG?raw=true)
 
 - Proses Perhitungan
-![Img 6](image/6. Proses Perhitungan.JPG)
+  
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/6.%20Proses%20Perhitungan.JPG?raw=true)
 
 - Laporan
-![Img 7](image/7. Laporan.JPG)
+  
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/7.%20Laporan.JPG?raw=true)
 
 
 
