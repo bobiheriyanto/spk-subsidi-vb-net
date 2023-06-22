@@ -24,25 +24,25 @@ Aplikasi ini dibangun dengan menggunakan:
 
 ## Tampilan Aplikasi
 - Login
-![Img 1](image/1.Login.JPG)
+![Img 1](image/1. Login.JPG)
 
 - Menu Utama
-![Img 2](image/2.Menu Utama.JPG)
+![Img 2](image/2. Menu Utama.JPG)
 
 - Data Penerima
-![Img 3](image/3.Data Penerima.JPG)
+![Img 3](image/3. Data Penerima.JPG)
 
 - Data Kriteria
-![Img 4](image/4.Data Kriteria.JPG)
+![Img 4](image/4. Data Kriteria.JPG)
 
 - Data Penilaian
-![Img 5](image/5.Data Penilaian.JPG)
+![Img 5](image/5. Data Penilaian.JPG)
 
 - Proses Perhitungan
-![Img 6](image/6.Proses Perhitungan.JPG)
+![Img 6](image/6. Proses Perhitungan.JPG)
 
 - Laporan
-![Img 7](image/7.Laporan.JPG)
+![Img 7](image/7. Laporan.JPG)
 
 
 
