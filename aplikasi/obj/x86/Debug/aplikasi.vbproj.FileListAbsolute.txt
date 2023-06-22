@@ -1,0 +1,55 @@
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\bin\Debug\aplikasi.exe.config
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\bin\Debug\aplikasi.exe
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\bin\Debug\aplikasi.pdb
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\bin\Debug\aplikasi.xml
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.vbprojResolveAssemblyReference.cache
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.data_calon_penerima.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.data_kriteria.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.Data_Nilai_Penerima.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.laporan_hsl_keputusan.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.login.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.Menu_Utama.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.Proses_Perhitungan.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.Resources.resources
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.vbproj.GenerateResource.Cache
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.exe
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.xml
+D:\DATA BOBI\THESIS\PRINT BERSIH 01\program\aplikasi\obj\x86\Debug\aplikasi.pdb
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\bin\Debug\aplikasi.exe.config
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.exe
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.xml
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.pdb
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\bin\Debug\aplikasi.exe
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\bin\Debug\aplikasi.pdb
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\bin\Debug\aplikasi.xml
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.vbprojResolveAssemblyReference.cache
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.data_calon_penerima.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.data_kriteria.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.Data_Nilai_Penerima.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.laporan_hsl_keputusan.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.login.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.Menu_Utama.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.Proses_Perhitungan.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.Resources.resources
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\191321047_bobi_heri_yanto_kelengkapan_tesis\aplikasi\Program\program\aplikasi\obj\x86\Debug\aplikasi.vbproj.GenerateResource.Cache
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\kelengkapan_thesis_191321047_bobi_heri_yanto\program Aplikasi\program\aplikasi\bin\Debug\aplikasi.exe.config
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\kelengkapan_thesis_191321047_bobi_heri_yanto\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.exe
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\kelengkapan_thesis_191321047_bobi_heri_yanto\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.xml
+D:\DATA BOBI\THESIS\FINALLLLLLLLLLL\kelengkapan_thesis_191321047_bobi_heri_yanto\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.pdb
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\bin\Debug\aplikasi.exe.config
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.exe
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.xml
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.pdb
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\bin\Debug\aplikasi.exe
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\bin\Debug\aplikasi.pdb
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\bin\Debug\aplikasi.xml
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.vbprojResolveAssemblyReference.cache
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.data_calon_penerima.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.data_kriteria.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.Data_Nilai_Penerima.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.laporan_hsl_keputusan.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.login.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.Menu_Utama.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.Proses_Perhitungan.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.Resources.resources
+D:\PORTFOLIO\1. SPK KELAYAKAN PEMBERIAN SUBSIDI LISTRIK METODE MFEP DENGAN VISUAL BASIC\program Aplikasi\program\aplikasi\obj\x86\Debug\aplikasi.vbproj.GenerateResource.Cache
