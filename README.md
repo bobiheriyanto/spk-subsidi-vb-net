@@ -24,7 +24,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 ## Tampilan Aplikasi
 - Login
-![Img 1](image/1. Login.JPG)
+![alt text](https://github.com/bobiheriyanto/spk-subsidi-vb-net/blob/main/image/1.%20Login.JPG?raw=true)
 
 - Menu Utama
 ![Img 2](image/2. Menu Utama.JPG)
